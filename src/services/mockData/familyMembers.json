@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "name": "Dad",
+    "avatar": "",
+    "color": "blue",
+    "role": "parent",
+    "points": 245
+  },
+  {
+    "Id": 2,
+    "name": "Mom",
+    "avatar": "",
+    "color": "pink",
+    "role": "parent",
+    "points": 320
+  },
+  {
+    "Id": 3,
+    "name": "Emma",
+    "avatar": "",
+    "color": "purple",
+    "role": "child",
+    "points": 180
+  },
+  {
+    "Id": 4,
+    "name": "Noah",
+    "avatar": "",
+    "color": "green",
+    "role": "child",
+    "points": 165
+  }
+]
